@@ -1,1 +1,2 @@
-Atividade de implementação do problema N + 1
+### Atividade - Problema N + 1
+Implementação da solução para o problema N + 1
